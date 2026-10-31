@@ -1,0 +1,730 @@
+{
+    "Question_1": {
+        "question": "سروِ چَمانِ من چرا میلِ چمن نمی‌کند؟\nهمدمِ گل نمی‌شود، یادِ سمن نمی‌کند\n\nبا توجه به معنای بیت، «سرو چمان» به چه کسی اشاره دارد؟",
+        "option_1": "گل سرخ",
+        "option_2": "باغبان",
+        "option_3": "معشوق خوش‌قدوقامت",
+        "option_4": "درختی بلند"
+    },
+    "Question_2": {
+        "question": "‌کدام ‌عدد‌ بهتره‌؟",
+        "option_1": "18",
+        "option_2": "16",
+        "option_3": "15",
+        "option_4": "17"
+    },
+    "Question_3": {
+        "question": "عبارت man az to khasteam بدون بافت قبلی کدام معنی را می‌تواند داشته باشد؟",
+        "option_1": "هیچ‌کدام",
+        "option_2": "هردو",
+        "option_3": "من از تو خسته‌ام.",
+        "option_4": "من از تو خواستم."
+    },
+    "Question_4": {
+        "question": "جواب معمای «چه چیزی وقتی خیس می‌شود، بیشتر شما را خشک می‌کند؟» با چه حرفی تمام می‌شود؟",
+        "option_1": "ه",
+        "option_2": "ق",
+        "option_3": "ح",
+        "option_4": "م"
+    },
+    "Question_5": {
+        "question": "کدام ‌گزینه‌ برای جواب ‌‌بهتره؟",
+        "option_1": "یخچال",
+        "option_2": "مبل",
+        "option_3": "چراغ راهنمایی",
+        "option_4": "میز"
+    },
+    "Question_6": {
+        "question": "If 5 birds are on a tree and a hunter shoots one of them, how many birds remain on the tree?",
+        "option_1": "0",
+        "option_2": "1",
+        "option_3": "5",
+        "option_4": "4"
+    },
+    "Question_7": {
+        "question": "We have a 100-story building. We have two identical eggs.\nThere is a height from which an egg breaks if dropped from it or higher, and does not break if dropped from lower than it. This height is unknown.\nWe want to find the breaking floor with the minimum number of drops in the worst case.\nWhat is the minimum required number of drops?",
+        "option_1": "12",
+        "option_2": "13",
+        "option_3": "15",
+        "option_4": "14"
+    },
+    "Question_8": {
+        "question": "123:12:؟",
+        "option_1": "2",
+        "option_2": "1",
+        "option_3": "3",
+        "option_4": "0"
+    },
+    "Question_9": {
+        "question": "khanevade-i do farzand darad. jensiyat-e har farzand ba ehtemal-e barabar ta'yin mishavad va tavallod-ha mostaqel hastand.\nMidanim hadaqal yeki az farzandan pesar ast. Hamchenin midanim hadaqal yeki az farzandan dar rooz-e seshanbe motavalled shode ast.\nEhtemal-e inke har do farzand pesar bashand cheqadr ast?\nFarz konid har rooz-e hafte baraye tavallod ehtemal-e yeksan darad.",
+        "option_1": "13/17",
+        "option_2": "13/71",
+        "option_3": "17/13",
+        "option_4": "71/13"
+    },
+    "Question_10": {
+        "question": "در کلمه «استثنا» چند دندانه وجود دارد؟",
+        "option_1": "7",
+        "option_2": "5",
+        "option_3": "6",
+        "option_4": "8"
+    },
+    "Question_11": {
+        "question": "اگر حروف کلمه LISTEN را جابه‌جا کنیم، کدام گزینه یک کلمه معتبر انگلیسی می‌شود؟",
+        "option_1": "SLIENT",
+        "option_2": "SILENT",
+        "option_3": "SLINTE",
+        "option_4": "SNETIL"
+    },
+    "Question_12": {
+        "question": "رایج‌ترین رنگ دستمال توالت در فرانسه چه رنگی نیست؟",
+        "option_1": "گزینه یک و دو",
+        "option_2": "سفید",
+        "option_3": "آبی",
+        "option_4": "زرد"
+    },
+    "Question_13": {
+        "question": "راحت نیست.",
+        "option_1": "خ/س/ت",
+        "option_2": "س/ا/و/ه/د",
+        "option_3": "هیچ کدام",
+        "option_4": "ف/ر/ش/ه/د"
+    },
+    "Question_14": {
+        "question": "تاریخ ۱۵ ژوئن ۱۸۹۹ ساعت ۱۴:۳۰:۴۵ معادل کدام است؟\nالف) ۱۲۷۸/۰۳/۲۴ ۱۴:۳۰:۴۵ ب) ۱۲۷۸/۰۳/۲۵ ۱۴:۳۰:۴۵ ج) ۱۲۷۷/۰۳/۲۵ ۱۴:۳۰:۴۵ د) ۱۲۷۸/۰۳/۲۶ ۱۴:۳۰:۴۵",
+        "option_1": "ج",
+        "option_2": "الف",
+        "option_3": "ب",
+        "option_4": "د"
+    },
+    "Question_15": {
+        "question": "Consider the following sequence:\n1, 2, 4, 16, ?\nWhat is the next number?",
+        "option_1": "32",
+        "option_2": "31",
+        "option_3": "Infinity",
+        "option_4": "No answer"
+    },
+    "Question_16": {
+        "question": "کابل...",
+        "option_1": "برق",
+        "option_2": "آب",
+        "option_3": "چوب",
+        "option_4": "گاز"
+    },
+    "Question_17": {
+        "question": "کدام گزینه مشابه «حز به زح» است؟",
+        "option_1": "خز به زخ",
+        "option_2": "جز به زج",
+        "option_3": "عر به زع",
+        "option_4": "چز به زچ"
+    },
+    "Question_18": {
+        "question": "کدام گزینه برای جای A مناسب تر است؟\nکمر:عمر:{A}",
+        "option_1": "چمر",
+        "option_2": "خمر",
+        "option_3": "حمر",
+        "option_4": "جمر"
+    },
+    "Question_19": {
+        "question": "We have three boxes:\nBox A: labeled \"Apples\"\nBox B: labeled \"Oranges\"\nBox C: labeled \"Apples and Oranges\"\nWe know that all labels are wrong.\nYou can take only one fruit out of each box. With a minimum of how many draws can the contents of all three boxes be determined with certainty?",
+        "option_1": "1",
+        "option_2": "3",
+        "option_3": "0",
+        "option_4": "2"
+    },
+    "Question_20": {
+        "question": "پاسخ معمای «مردی در باران شدید بدون چتر و کلاه راه می‌رود، اما حتی یک تار مویش خیس نمی‌شود.» دارای کدام حرف است؟",
+        "option_1": "ج",
+        "option_2": "خ",
+        "option_3": "ح",
+        "option_4": "چ"
+    },
+    "Question_21": {
+        "question": "Suppose an artificial intelligence system has three propositions:\nIf A is true, B is true.\nIf B is true, C is true.\nC is false.\nIs A false?",
+        "option_1": "Yes",
+        "option_2": "The question is wrong",
+        "option_3": "Maybe",
+        "option_4": "No"
+    },
+    "Question_22": {
+        "question": "کدام کلمه بیشترین تعداد نقطه را دارد؟",
+        "option_1": "شتاب",
+        "option_2": "بینش",
+        "option_3": "پرواز",
+        "option_4": "آواز"
+    },
+    "Question_23": {
+        "question": "کشتم شپش شپش کش شش پا را. این، چند تا نقطه دارد؟",
+        "option_1": "2",
+        "option_2": "16",
+        "option_3": "15",
+        "option_4": "3"
+    },
+    "Question_24": {
+        "question": "پاسخ زیر چند جواب حقیقی دارد؟\n2^x = x^2",
+        "option_1": "3",
+        "option_2": "2",
+        "option_3": "1",
+        "option_4": "4"
+    },
+    "Question_25": {
+        "question": "Three doctors said that Parsa is their brother. Parsa says he has no brothers. How many brothers does Parsa actually have?",
+        "option_1": "He is an only child",
+        "option_2": "He has no sisters",
+        "option_3": "He has brothers",
+        "option_4": "He has no brothers"
+    },
+    "Question_26": {
+        "question": "سال کبیسه؛ ۳۱ دسامبر ۱۸۹۹ چندمین روز سال است؟",
+        "option_1": "367",
+        "option_2": "366",
+        "option_3": "365",
+        "option_4": "364"
+    },
+    "Question_27": {
+        "question": "تعداد حرف r (کوچک و بزرگ) در عبارت strawberry raspberry blackberry چند است؟",
+        "option_1": "7",
+        "option_2": "8",
+        "option_3": "6",
+        "option_4": "9"
+    },
+    "Question_28": {
+        "question": "اگر تعداد استخوان های یک کوسه را از تعداد استخوان های یک انسان بالغ کم کنیم. حاصل چه عددی می‌شود؟",
+        "option_1": "206",
+        "option_2": "0",
+        "option_3": "10",
+        "option_4": "208"
+    },
+    "Question_29": {
+        "question": "On an island, 100 people live. Each one either has blue eyes or brown eyes.\nRules:\nEach person sees the eye color of others, but does not know their own eye color.\nNo one is allowed to talk about eye color.\nAll people are logical and know that the others are also logical.\nIf someone becomes certain of their own eye color, they must leave the island at midnight.\nOne day, a person from outside the island announces:\n\"At least one person on this island has blue eyes.\"\nSuppose exactly 100 people have blue eyes.\nOn what night do the blue-eyed people leave the island?",
+        "option_1": "Never",
+        "option_2": "Night 1",
+        "option_3": "Night 99",
+        "option_4": "Night 100"
+    },
+    "Question_30": {
+        "question": "دو جمله «داداشم چرخ دارد» و «من ماشین ندارم» دارای یک ارتباط خاص هستند. در کدام گزینه ها همین رابطه برقرار است؟",
+        "option_1": "«شکر شیرین است.» و «شیر شاکی بود.»",
+        "option_2": "«نرگس» و «شکوفه»",
+        "option_3": "«اعم» و «شامل»",
+        "option_4": "«چرخ آسیاب» و «خودرو الکترونیکی»"
+    },
+    "Question_31": {
+        "question": "If all d's are c's, are all D's c's?",
+        "option_1": "No",
+        "option_2": "We don't know",
+        "option_3": "Yes",
+        "option_4": "Maybe"
+    },
+    "Question_32": {
+        "question": "Chahar jomle darim:\n\n1. Daghighan yek jomle az in chahar jomle dorost ast.\n2. Daghighan do jomle az in chahar jomle dorost ast.\n3. Daghighan se jomle az in chahar jomle dorost ast.\n4. Hich-kodam az se jomle-ye avval dorost nistand.\n   Kodam gozine dorost ast?",
+        "option_1": "Fagath jomle aval",
+        "option_2": "Hichkodam",
+        "option_3": "Jome aval va chaharom dorost ast",
+        "option_4": "Fagath jomle chaharom"
+    },
+    "Question_33": {
+        "question": "Find a positive integer N such that:\nIt has exactly 4 positive divisors.\nThe sum of its positive divisors is 28.\nIt is itself an even number.",
+        "option_1": "26",
+        "option_2": "It does not exist",
+        "option_3": "It exists, but it is ambiguous",
+        "option_4": "48"
+    },
+    "Question_34": {
+        "question": "کدام گزینه بیشترین تعداد حروف را دارد؟",
+        "option_1": "ورز‌دذژ",
+        "option_2": "و‌ر‌زد‌ذ‌ژ",
+        "option_3": "و‌رزد‌ذژ",
+        "option_4": "ورز‌د‌ذژ"
+    },
+    "Question_35": {
+        "question": "2.4=12\n9.3=72\n5.7=24\n7.8=?",
+        "option_1": "15",
+        "option_2": "51",
+        "option_3": "50",
+        "option_4": "10"
+    },
+    "Question_36": {
+        "question": "How many real solutions does the following equation have?\n\n|x^2 - 5x + 6| = x",
+        "option_1": "1",
+        "option_2": "3",
+        "option_3": "2",
+        "option_4": "0"
+    },
+    "Question_37": {
+        "question": "«جعبه *سیاه*» معروف هواپیما چه رنگی است؟",
+        "option_1": "سیاه",
+        "option_2": "سفید",
+        "option_3": "آبی",
+        "option_4": "نارنجی"
+    },
+    "Question_38": {
+        "question": "An artificial intelligence model gives the correct answer in 99% of math tests.\nBut in a new test, its answers are correct in 99% of cases.\nCan it be concluded that this model is strong in mathematical reasoning?",
+        "option_1": "None of them",
+        "option_2": "No",
+        "option_3": "Yes",
+        "option_4": "Maybe"
+    },
+    "Question_39": {
+        "question": "If an electric train moves north and the wind blows from the south, which direction does the train's smoke go?",
+        "option_1": "E",
+        "option_2": "N",
+        "option_3": "W",
+        "option_4": "None of them"
+    },
+    "Question_40": {
+        "question": "کدام عبارت بیشترین ابهام را دارد؟",
+        "option_1": "Ketab",
+        "option_2": "Donya",
+        "option_3": "Darya",
+        "option_4": "Shir"
+    },
+    "Question_41": {
+        "question": "I am not like a protective layer. My brother has 3 times my power. I appear to have 2 times my power in the mirror. My name is not O¹ or H. What is my name?",
+        "option_1": "C",
+        "option_2": "X",
+        "option_3": "O",
+        "option_4": "F"
+    },
+    "Question_42": {
+        "question": "در عبارت «می‌خواهم» چند حرف فارسی وجود ندارد، اگر نیم‌فاصله حرف محسوب نشود؟",
+        "option_1": "2",
+        "option_2": "3",
+        "option_3": "0",
+        "option_4": "1"
+    },
+    "Question_43": {
+        "question": "We have four statements:\n\n1. Exactly one of these four statements is true.\n2. Exactly two of these four statements are true.\n2. Exactly three of these four statements are true.\n4. None of the first three statements are true.\n   Which option is correct?",
+        "option_1": "The question is problematic.",
+        "option_2": "Statements four and two.",
+        "option_3": "Only the fourth statement.",
+        "option_4": "Only the first statement."
+    },
+    "Question_44": {
+        "question": "You overtake the person in second place in a race. What place are you in now?",
+        "option_1": "3",
+        "option_2": "4",
+        "option_3": "1",
+        "option_4": "2"
+    },
+    "Question_45": {
+        "question": "جواب معمای زیر در کدام گزینه پنهان شده است؟\nمعما: «همیشه می‌آید، اما هیچوقت نمی‌رسد.»",
+        "option_1": "رجشدکفا",
+        "option_2": "خیدچفر",
+        "option_3": "جسپزحصو",
+        "option_4": "دجرهزیو"
+    },
+    "Question_46": {
+        "question": "برای کامپیوتر کدام گزینه درست تر است؟\nخاک:انسان\n؟:کامپیوتر",
+        "option_1": "رم",
+        "option_2": "تراشه",
+        "option_3": "جعبه",
+        "option_4": "کارخانه"
+    },
+    "Question_47": {
+        "question": "پنجمین حرف معکوس Instructions چیست؟",
+        "option_1": "c",
+        "option_2": "r",
+        "option_3": "t",
+        "option_4": "T"
+    },
+    "Question_48": {
+        "question": "A disease exists in 1% of the population. We have a test that:\nIf a person is sick, it gives a positive result with 99% probability.\nIf a person is healthy, it gives a positive result with 5% probability.\nA random person took the test and their result was positive.\nWhat is the probability that they are actually sick?",
+        "option_1": "99%",
+        "option_2": "16.67",
+        "option_3": "99",
+        "option_4": "16.67%"
+    },
+    "Question_49": {
+        "question": "Using the digits 0, 1, 2, 3, 4, 5, how many five-digit numbers can be formed such that:\nNo digit is repeated.\nThe number is divisible by 5.",
+        "option_1": "180",
+        "option_2": "240",
+        "option_3": "216",
+        "option_4": "192"
+    },
+    "Question_50": {
+        "question": "کدام ‌‌گزینه با بقیه ‌‌متفاوت است؟",
+        "option_1": "آفریقا",
+        "option_2": "ایران",
+        "option_3": "آسیا",
+        "option_4": "اروپا"
+    },
+    "Question_51": {
+        "question": "کدوم گزینه متفاوت‌ است؟",
+        "option_1": "Si",
+        "option_2": "Fe",
+        "option_3": "Au",
+        "option_4": "Cu"
+    },
+    "Question_52": {
+        "question": "کدام گزاره درباره زمین و خورشید درست است؟",
+        "option_1": "زمین در دی نزدیک تر است.",
+        "option_2": "زمین در تیر نزدیک تر است.",
+        "option_3": "فاصله همیشه ثابت است.",
+        "option_4": "متغیر است و ثابت نیست."
+    },
+    "Question_53": {
+        "question": "Yek adad zooj va aval nam bebarid.",
+        "option_1": "Yek",
+        "option_2": "Do",
+        "option_3": "Chahar",
+        "option_4": "Seh"
+    },
+    "Question_54": {
+        "question": "بهترین گزینه کدام است؟ (تفاوت یا شباهت)",
+        "option_1": "عمر",
+        "option_2": "فقر",
+        "option_3": "خنجر",
+        "option_4": "شهر"
+    },
+    "Question_55": {
+        "question": "در عبارت salam be hame کدام حرف فارسی در بازنویسی استاندارد باید در ابتدای کلمه دوم بیاید؟",
+        "option_1": "ت",
+        "option_2": "ب",
+        "option_3": "پ",
+        "option_4": "ث"
+    },
+    "Question_56": {
+        "question": "A family has two children.\nWe know:\nThe gender of each child is equally likely to be a boy or a girl.\nThe genders of the two children are independent.\nThe family has at least one boy who was born on a Tuesday.\nWhat is the probability that both children are boys?",
+        "option_1": "1/2",
+        "option_2": "7/27",
+        "option_3": "13/27",
+        "option_4": "1/3"
+    },
+    "Question_57": {
+        "question": "We have a right triangle whose hypotenuse is 10 and whose perimeter is 24.\nWhat is the area of the triangle?",
+        "option_1": "24",
+        "option_2": "18",
+        "option_3": "20",
+        "option_4": "12"
+    },
+    "Question_58": {
+        "question": "بال نداره اما پرواز می‌کنه، چشم نداره اما گریه می‌کنه. رنگ آن چیست؟",
+        "option_1": "سفید",
+        "option_2": "سیاه",
+        "option_3": "قرمز",
+        "option_4": "طوسی"
+    },
+    "Question_59": {
+        "question": "Find the smallest positive integer n such that:\n10¹⁰⁰ | n!",
+        "option_1": "405",
+        "option_2": "400",
+        "option_3": "500",
+        "option_4": "404"
+    },
+    "Question_60": {
+        "question": "کدام گزینه به جای B بگذاریم، درست است؟\nFe:Si:{B}",
+        "option_1": "Hg",
+        "option_2": "O",
+        "option_3": "Au",
+        "option_4": "Cu"
+    },
+    "Question_61": {
+        "question": "جای خالی را کامل کنید.\nقس...ن...",
+        "option_1": "تنت-یه",
+        "option_2": "طنط-یه",
+        "option_3": "نتن-هی",
+        "option_4": "نطن-هی"
+    },
+    "Question_62": {
+        "question": "I turn once, what is outside does not come in. I turn again, what is inside does not go out. What am I?",
+        "option_1": "Door",
+        "option_2": "Switch",
+        "option_3": "Internet",
+        "option_4": "Key"
+    },
+    "Question_63": {
+        "question": "کدام گزینه آنagram دقیق ASTRONOMER است؟",
+        "option_1": "MOONSTARET",
+        "option_2": "MOONSTAREE",
+        "option_3": "MOONSTARER",
+        "option_4": "MOONSTARES"
+    },
+    "Question_64": {
+        "question": "چهار در، یک جایزه. شما یک در انتخاب می‌کنید. میزبان یک بز را از بین دو درِ باقیمانده (غیر از انتخاب شما و جایزه) باز می‌کند. سپس شما به یکی از دو در بسته‌ی باقی‌مانده تغییر می‌دهید (به تصادف). احتمال برد؟\nالف) ۱/۴ ب) ۱/۳ ج) ۳/۸ د) ۱/۲",
+        "option_1": "د",
+        "option_2": "ب",
+        "option_3": "الف",
+        "option_4": "ج"
+    },
+    "Question_65": {
+        "question": "مجموع نقطه‌های حروف کلمه «تبریز» چند است؟",
+        "option_1": "4",
+        "option_2": "5",
+        "option_3": "6",
+        "option_4": "7"
+    },
+    "Question_66": {
+        "question": "Two fathers, two sons, and one mother are in a car. How many men (male gender) are in the car?",
+        "option_1": "2",
+        "option_2": "4",
+        "option_3": "1",
+        "option_4": "3"
+    },
+    "Question_67": {
+        "question": "امروز ۱۰ آبان ۱۴۰۵ است. تاریخ شمسی معادل «۱۲۷ سال پیش از امروز» کدام است؟ (فقط روز و ماه را در نظر بگیرید.)\nالف) ۱۰ آبان ۱۲۷۸ ب) ۱۸ آبان ۱۲۷۸ ج) ۹ آبان ۱۲۷۸ د) ۱۰ آبان ۱۲۷۷",
+        "option_1": "ب",
+        "option_2": "د",
+        "option_3": "الف",
+        "option_4": "ج"
+    },
+    "Question_68": {
+        "question": "My name is b and I have three brothers.\nMy first brother is d, my second brother is h. What is my third brother's nickname?",
+        "option_1": "p",
+        "option_2": "16",
+        "option_3": "q",
+        "option_4": "15"
+    },
+    "Question_69": {
+        "question": "با توجه به الگو؛ حرف بعدی چیست؟\nش:ق:",
+        "option_1": "ص",
+        "option_2": "س",
+        "option_3": "ع",
+        "option_4": "غ"
+    },
+    "Question_70": {
+        "question": "پاسخ معمای «چه چیزی متعلق به شماست، اما دیگران بیشتر از خودتان از آن استفاده می‌کنند؟» دارای چه حروفی حتماً است؟",
+        "option_1": "س و ن",
+        "option_2": "ی و ن",
+        "option_3": "ک و گ",
+        "option_4": "س و ی"
+    },
+    "Question_71": {
+        "question": "۱۵ ژوئن ۱۸۹۹ در تقویم قمری جدولی (کویتی) کدام است؟\nالف) ۱۳۱۷/۰۲/۰۷ ب) ۱۳۱۷/۰۲/۰۸ ج) ۱۳۱۶/۰۲/۰۷ د) ۱۳۱۷/۰۳/۰۷",
+        "option_1": "الف",
+        "option_2": "ب",
+        "option_3": "د",
+        "option_4": "ج"
+    },
+    "Question_72": {
+        "question": "۱۰ دی ۱۲۷۸ معادل کدام روز میلادی است؟\nالف) ۳۱ دسامبر ۱۸۹۹ ب) ۱ ژانویه ۱۹۰۰ ج) ۳۰ دسامبر ۱۸۹۹ د) ۲۹ دسامبر ۱۸۹۹",
+        "option_1": "ج",
+        "option_2": "ب",
+        "option_3": "الف",
+        "option_4": "د"
+    },
+    "Question_73": {
+        "question": "‌بهترین گزینه ‌کدام است؟‌ (تفاوت یا‌ شباهت)",
+        "option_1": "ناج",
+        "option_2": "هوهق",
+        "option_3": "با",
+        "option_4": "یاچ"
+    },
+    "Question_74": {
+        "question": "در رشته زیر چند حرف وجود دارد؟\n\nپژوهشگرِ خلاق، پاسخِ پیچیده را ساده می‌کند.",
+        "option_1": "42",
+        "option_2": "30",
+        "option_3": "41",
+        "option_4": "40"
+    },
+    "Question_75": {
+        "question": "1,270,561,076 ÷ 132,648,834,497,250",
+        "option_1": "104,401.77729569",
+        "option_2": "104,401.77729579",
+        "option_3": "104,401.77729579 گنگ",
+        "option_4": "104,401.7772957999..."
+    },
+    "Question_76": {
+        "question": "اگر خ=10 باشد، آنگاه ق کدام عدد است؟",
+        "option_1": "23",
+        "option_2": "25",
+        "option_3": "23",
+        "option_4": "24"
+    },
+    "Question_77": {
+        "question": "On an island, every person either always tells the truth or always lies.\nThree people A, B, and C say the following:\nA: \"B is a liar.\"\nB: \"C is a liar.\"\nC: \"A and B are both liars.\"\nDetermine which one is a truth-teller and which one is a liar.",
+        "option_1": "3-1",
+        "option_2": "None of them",
+        "option_3": "It has no answer",
+        "option_4": "2-2"
+    },
+    "Question_78": {
+        "question": "A father, who is alone, is a farmer, and his lands need plowing. This farmer's son is in prison for a heavy crime and is under special supervision. The father asks the son how he should plow his land alone. How can the son provide the easiest, simplest help?",
+        "option_1": "Friends",
+        "option_2": "Relatives and other family members",
+        "option_3": "He has no way",
+        "option_4": "Polices"
+    },
+    "Question_79": {
+        "question": "A train moves east at a constant speed of 100 km/h.\nA passenger on the train throws a ball west at a speed of 20 km/h relative to the train.\nWhat is the speed of the ball relative to the ground?",
+        "option_1": "80W",
+        "option_2": "80E",
+        "option_3": "120E",
+        "option_4": "120W"
+    },
+    "Question_80": {
+        "question": "کدام کلمه با «شتر» دارای ارتباط است؟",
+        "option_1": "سگ",
+        "option_2": "گاو",
+        "option_3": "گربه",
+        "option_4": "شیر"
+    },
+    "Question_81": {
+        "question": "در عبارت زیر، حرف «ا» چند بار تکرار شده است؟\n«آرامش انسان از آگاهی آغاز می‌شود، اما آرامش واقعی از پذیرش می‌آید.»",
+        "option_1": "13",
+        "option_2": "10",
+        "option_3": "11",
+        "option_4": "9"
+    },
+    "Question_82": {
+        "question": "We have three distinct positive integers.\nTheir sum is 12, and their product is 48.\nFind these three numbers.",
+        "option_1": "2,6,16",
+        "option_2": "3,2,10",
+        "option_3": "2,4,6",
+        "option_4": "1,3,8"
+    },
+    "Question_83": {
+        "question": "Three prisoners A, B, and C are placed in a line.\nA is behind B.\nB is behind C.\nA sees the hats of B and C.\nB only sees the hat of C.\nC sees no hats.\nThere are three white hats and two black hats. Each prisoner is given one hat.\nA is asked what color his hat is. He says: \"I don't know.\"\nB is asked. He also says: \"I don't know.\"\nC, upon hearing their answers, says: \"I know the color of my hat.\"\nWhat is the color of C's hat?",
+        "option_1": "White",
+        "option_2": "None of them",
+        "option_3": "Black",
+        "option_4": "Black and white combination"
+    },
+    "Question_84": {
+        "question": "1,270,561,076 × 132,648,834,497,250",
+        "option_1": "1.685384469E+22.9",
+        "option_2": "1.68538445E+23",
+        "option_3": "1.68538446E+23",
+        "option_4": "1.68538445E+22"
+    },
+    "Question_85": {
+        "question": "معکوس دقیق رشته زیر چیست؟\n\nSzpMW4QQbRjpeLMPznjqCe5Wc2WRiQAU",
+        "option_1": "UAQiRW2cW5eCqinzPMLepjRbQQ4WMpzS",
+        "option_2": "UAQiRW2cW5eCqjnzPMLepjRbOQ4WMpzS",
+        "option_3": "UAQiRW2cW5eCqjnzPMLepjRbQO4WMpzS",
+        "option_4": "UAQlRW2cW5eCqjnzPMLepjRbQQ4WMpzS"
+    },
+    "Question_86": {
+        "question": "علی و نیما مثل ...",
+        "option_1": "اسفندیاری و یوشیج",
+        "option_2": "قاسمی و دشتکی",
+        "option_3": "سعدی و حافظ",
+        "option_4": "کاظمی و عبداللهی"
+    },
+    "Question_87": {
+        "question": "مثلث:مربع:...\nعدد بعدی چیست؟",
+        "option_1": "6",
+        "option_2": "4",
+        "option_3": "5",
+        "option_4": "3"
+    },
+    "Question_88": {
+        "question": "کدام گزینه با دیگر گزینه ها تفاوت دارد؟",
+        "option_1": "رشت",
+        "option_2": "کرج",
+        "option_3": "قم",
+        "option_4": "تهران"
+    },
+    "Question_89": {
+        "question": "In Persian, \"Dara\" (rich) does not have it, but \"Nadara\" (poor) has it.",
+        "option_1": "N",
+        "option_2": "Dot",
+        "option_3": "None of them",
+        "option_4": "Dot - N"
+    },
+    "Question_90": {
+        "question": "در یک خانواده، «آرمان» پسرِ «بهرام» است. بهرام با «مهتاب» ازدواج کرده و از این ازدواج پسری به نام «سامان» دارد.\nاز طرفی، مهتاب قبلاً دختری به نام «رها» داشته است. رها با آرمان ازدواج می‌کند و صاحب پسری به نام «کیان» می‌شود.\nنسبت بهرام با کیان چیست؟",
+        "option_1": "فقط پدربزرگ",
+        "option_2": "ناپدربزرگ",
+        "option_3": "هم پدربزرگ هم برادر",
+        "option_4": "فقط برادر"
+    },
+    "Question_91": {
+        "question": "با توجه ‌به الگو؛ ‌حرف بعدی ‌چیست؟\nپ:چ:؟",
+        "option_1": "ش",
+        "option_2": "س",
+        "option_3": "ص",
+        "option_4": "ض"
+    },
+    "Question_92": {
+        "question": "کدام گزینه بوی آب معمولی را دارد.",
+        "option_1": "قند",
+        "option_2": "نعنا",
+        "option_3": "گل نرگس",
+        "option_4": "ادکلن"
+    },
+    "Question_93": {
+        "question": "چ-(ج+خ+۱)=؟",
+        "option_1": "چ",
+        "option_2": "ج",
+        "option_3": "ح",
+        "option_4": "خ"
+    },
+    "Question_94": {
+        "question": "From the following set:\n{1, 2, 3, 4, 5, 6, 7, 8, 9}\nWe choose three distinct numbers.\nHow many selections are there such that the sum of the three numbers is even?",
+        "option_1": "64",
+        "option_2": "56",
+        "option_3": "60",
+        "option_4": "44"
+    },
+    "Question_95": {
+        "question": "؟تسا اجک ناریا تختیاپ",
+        "option_1": "دهشم",
+        "option_2": "کربلا",
+        "option_3": "نارهت",
+        "option_4": "زربلا"
+    },
+    "Question_96": {
+        "question": "«روز اول سالی که یک روز یکشنبه بود» در ۱۲۷ سال پیش، در کدام ماه شمسی قرار داشت؟",
+        "option_1": "آبان",
+        "option_2": "فروردین",
+        "option_3": "اسفند",
+        "option_4": "مهر"
+    },
+    "Question_97": {
+        "question": "۱۰۰ زندانی، ۱۰۰ جعبه. هر زندانی ۴۹ جعبه (نه ۵۰) می‌تواند باز کند. احتمال موفقیت استراتژی چرخه تقریباً چقدر است؟\n\nA) بالای ۵۰٪ B) حدود ۳۱٪ C) حدود ۲۹٪ D) زیر ۵٪",
+        "option_1": "B",
+        "option_2": "D",
+        "option_3": "A",
+        "option_4": "C"
+    },
+    "Question_98": {
+        "question": "تاریخ ۱۵ ‌ژوئن ۱۸۹۹‌ ساعت ۱۴:۳۰:۴۵، چند ثانیه از نیمه‌شب گذشته؟\nالف) ۵۰۴۴۵ ب) ۵۲۲۰۰ ج) ۵۲۲۴۵ د) ۵۳۴۴۵",
+        "option_1": "ب",
+        "option_2": "الف",
+        "option_3": "ج",
+        "option_4": "د"
+    },
+    "Question_99": {
+        "question": "398 = 964\n118= 164\n356 = 936\n423 = ??",
+        "option_1": "169",
+        "option_2": "170",
+        "option_3": "168",
+        "option_4": "167"
+    },
+    "Question_100": {
+        "question": "باقی مانده عبارت زیر بر 13 چند است؟\n3²⁰²⁶ + 2²⁰²⁶",
+        "option_1": "1",
+        "option_2": "0",
+        "option_3": "3",
+        "option_4": "2"
+    },
+    "Question_101": {
+        "question": "چهار نفر با زمان‌های ۱، ۲، ۵ و ۱۰ دقیقه، از پل عبور می‌کنند. حداکثر دو نفر هم‌زمان، و چراغ باید همراه باشد. کمترین زمان؟\nالف) ۱۵ ب) ۱۷ ج) ۱۹ د) ۲۱",
+        "option_1": "د",
+        "option_2": "ب",
+        "option_3": "الف",
+        "option_4": "ج"
+    },
+    "Question_102": {
+        "question": "The clock shows exactly 3:15.\nHow many degrees is the smaller angle between the hour hand and the minute hand?",
+        "option_1": "7.5",
+        "option_2": "22.5",
+        "option_3": "0",
+        "option_4": "15"
+    },
+    "Question_103": {
+        "question": "کدام گزینه متفاوت است؟",
+        "option_1": "Hg",
+        "option_2": "Ga",
+        "option_3": "Fe",
+        "option_4": "O"
+    },
+    "Question_104": {
+        "question": "فامیلی تمام اعضای خانواده ما LM است. اسم پدرم L است. اسم برادرم S است و من از آن کوچکتر هستم. اسم من چیست؟",
+        "option_1": "N",
+        "option_2": "S",
+        "option_3": "T",
+        "option_4": "A"
+    }
+}
